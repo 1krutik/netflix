@@ -28,4 +28,14 @@ about this project::->
 🌐 Deployment
 🚀 And Many More Cool Features
 
-
+frontend and backend setup
+database connection
+register and login in backend
+TMDB API intigrate
+fatch movies
+add search functinality
+frontend ui design
+register login functionality
+create pages
+fetch movie data end intigrate with ui
+finish testing
